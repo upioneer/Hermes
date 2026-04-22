@@ -18,7 +18,7 @@
 
 Use the onboarding wizard or manually config .env file
 
-1. Create a bot using @BotFather on Telegram to obtain your TELEGRAM_BOT_TOKEN
+1. Create a bot using [@BotFather](https://telegram.me/BotFather) on Telegram to obtain your TELEGRAM_BOT_TOKEN
 2. Retrieve your numeric Telegram User ID
 3. Open your environment file located at `~/.hermes/.env` and populate the following fields
 
